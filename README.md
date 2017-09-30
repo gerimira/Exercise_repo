@@ -10,3 +10,4 @@ This project will contain:
 
 Resolving the new conflict
 
+Making changes on the main branch
