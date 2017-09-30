@@ -7,3 +7,4 @@ Edited again in master branch.
 
 This project will contain:
 
+Creating a new conflict
