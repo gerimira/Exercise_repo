@@ -7,4 +7,6 @@ Edited again in master branch.
 
 This project will contain:
 
-Again making changes....
+
+Resolving the new conflict
+
